@@ -1,0 +1,10 @@
+ints a 5;
+ints b 8;
+ints c 0;
+ints d 4;
+line v edgar;
+c = a + b;
+if__ % a > b;
+loop | a + b;
+out_ a;
+out_ v;
